@@ -1,0 +1,4 @@
+https://machinelearningmastery.com/develop-word-embeddings-python-gensim/
+https://radimrehurek.com/gensim/models/keyedvectors.html
+https://radimrehurek.com/gensim/models/word2vec.html
+http://nlpforhackers.io/splitting-text-into-sentences/
