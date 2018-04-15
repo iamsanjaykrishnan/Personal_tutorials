@@ -1,0 +1,1 @@
+tensorboard --logdir=E:\MachineLearningSanjay\Text_processing\summary\
