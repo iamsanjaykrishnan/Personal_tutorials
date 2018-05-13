@@ -1,0 +1,1 @@
+tensorboard --logdir=E:\MachineLearningSanjay\Bayesian_trial\summary
