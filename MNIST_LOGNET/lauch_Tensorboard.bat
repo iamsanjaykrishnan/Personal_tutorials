@@ -1,0 +1,1 @@
+tensorboard --logdir=E:\MachineLearningSanjay\MNIST_LOGNET\summary
