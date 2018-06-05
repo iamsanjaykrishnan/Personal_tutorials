@@ -37,7 +37,9 @@ class NeuralNetwork:
         tf.reset_default_graph()
 
         # define input place holder
-        self.Observation = tf.placeholder(tf.float32, shape=[None, 8])
+        self.Input_placeholder = tf.placeholder(tf.float32, shape=[None, 4 , 10])
+        self.Observation = tf.layers.flatten(self.Input_placeholder)
+        print( self.Observation)
         self.Action_past = tf.placeholder(tf.float32, shape=[None, 2])
         self.Reward = tf.placeholder(tf.float32, shape=[None, 1])
 
@@ -61,3 +63,13 @@ class NeuralNetwork:
         self.Disc_op = tf.train.AdamOptimizer().minimize(Reward_loss, var_list=D_var)
         # Actor optimisation by maximizing predicted reward
         self.Actor_op = tf.train.AdamOptimizer().minimize(-Act_reward_pred, var_list=G_var)
+
+    def Input_One_hot_encoded(self, state=np.zeros([4,1])):
+        # Create one hot encoded bins for State
+        def Binning(x):
+            no_bins = 10
+            bin_boundry = np.linspace(-1,1,no_bins)
+            out_,_ = np.histogram(x, bin_boundry)
+            return out_
+        return np.apply_along_axis(Binning, 1, state)
+
