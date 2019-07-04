@@ -1,0 +1,5 @@
+sudo mkdir /opt/cmake
+sudo sh /home/sanjay/Downloads/cmake-3.15.0-rc1-Linux-x86_64.sh --prefix=/opt/cmake
+sudo gedit /etc/environment
+sudo visudo
+. /etc/environment
