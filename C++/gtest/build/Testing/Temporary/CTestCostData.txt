@@ -1,0 +1,3 @@
+TEST_GTEST 0 0
+---
+TEST_GTEST
