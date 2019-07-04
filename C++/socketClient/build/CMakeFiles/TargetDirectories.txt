@@ -1,0 +1,5 @@
+/home/sanjay/Sanjay_c++/C++/socketClient/build/CMakeFiles/rebuild_cache.dir
+/home/sanjay/Sanjay_c++/C++/socketClient/build/CMakeFiles/edit_cache.dir
+/home/sanjay/Sanjay_c++/C++/socketClient/build/app/CMakeFiles/rebuild_cache.dir
+/home/sanjay/Sanjay_c++/C++/socketClient/build/app/CMakeFiles/app.dir
+/home/sanjay/Sanjay_c++/C++/socketClient/build/app/CMakeFiles/edit_cache.dir
