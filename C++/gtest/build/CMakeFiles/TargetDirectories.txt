@@ -1,0 +1,7 @@
+/home/sanjay/Sanjay_c++/C++/gtest/build/CMakeFiles/rebuild_cache.dir
+/home/sanjay/Sanjay_c++/C++/gtest/build/CMakeFiles/test.dir
+/home/sanjay/Sanjay_c++/C++/gtest/build/CMakeFiles/edit_cache.dir
+/home/sanjay/Sanjay_c++/C++/gtest/build/app/CMakeFiles/edit_cache.dir
+/home/sanjay/Sanjay_c++/C++/gtest/build/app/CMakeFiles/rebuild_cache.dir
+/home/sanjay/Sanjay_c++/C++/gtest/build/app/CMakeFiles/TEST1.dir
+/home/sanjay/Sanjay_c++/C++/gtest/build/app/CMakeFiles/test.dir
