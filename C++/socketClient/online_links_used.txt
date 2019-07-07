@@ -1,0 +1,4 @@
+string to char array convertion    http://www.cplusplus.com/forum/general/4422/    
+concatenate-char-array-in-c        https://stackoverflow.com/questions/2218290/concatenate-char-array-in-c
+SOCKET TIMEOUT			   https://stackoverflow.com/questions/2876024/linux-is-there-a-read-or-recv-from-socket-with-timeout
+close socket 			   http://www.linuxhowtos.org/C_C++/socket.htm
