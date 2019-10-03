@@ -1,0 +1,14 @@
+React tutorials from w3school
+Open with a server
+Obscurate js code : https://obfuscator.io
+  https://stackoverflow.com/questions/8957443/prevent-copying-text-in-web-page
+Messaging with React : https://www.javascriptstuff.com/component-communication/#5-parent-component
+Code split using gulp :
+    browserify
+    http://egorsmirnov.me/2015/05/25/browserify-babelify-and-es6.html
+    https://github.com/farhan687/React-skeleton
+
+navbar https://medium.com/wdstack/bootstrap-4-custom-navbar-1f6a2da5ed3c
+React
+Set states:
+https://reactjs.org/docs/state-and-lifecycle.html#state-updates-may-be-asynchronous
