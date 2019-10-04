@@ -12,3 +12,8 @@ navbar https://medium.com/wdstack/bootstrap-4-custom-navbar-1f6a2da5ed3c
 React
 Set states:
 https://reactjs.org/docs/state-and-lifecycle.html#state-updates-may-be-asynchronous
+Redux simple tutorial
+https://www.youtube.com/watch?v=CVpUuw9XSjY
+https://medium.com/@azizhk/create-multiple-redux-stores-b77b7359375f
+React animations
+https://medium.com/@dmitrynozhenko/5-ways-to-animate-a-reactjs-app-in-2019-56eb9af6e3bf

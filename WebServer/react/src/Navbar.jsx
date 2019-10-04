@@ -24,10 +24,7 @@ class NavbarTop extends React.Component {
   log(param) {
     console.log("log2: ", param);
   }
-  componentDidCatch(error, info) {
-    // You can also log the error to an error reporting service
-    console.log(error);
-  }
+
   changeColor = () => {
     console.log(this.props.setData("Navbar", "id", "test"));
   };
